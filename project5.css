@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: rgb(61, 54, 54);
+    padding: 10px;
+}
+header h2{
+    color: aliceblue;
+}
+nav ul li{
+    display: inline;
+    padding: 10px;
+    color: blueviolet;
+}
+nav ul li a{
+    text-decoration: none;
+    color:aqua;
+}
+#Home img{
+    width: 200px;
+    height: 200px;
+    border-radius:200px;
+}
+#Portfolio{
+    background-color: bisque;
+    padding: 10px;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+#Contact{
+    padding: 10px;
+}
+footer{
+    background-color: rgb(61, 54, 54);
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
